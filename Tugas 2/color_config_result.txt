@@ -1,0 +1,5 @@
+# Hasil Kalibrasi Warna
+# Copy kode berikut ke config.py
+
+HSV_YOUR_COLOR_LOWER = np.array([95, 184, 114])
+HSV_YOUR_COLOR_UPPER = np.array([125, 255, 255])
